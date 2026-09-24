@@ -135,12 +135,6 @@ The dashboard was designed with:
 * Demographic filters positioned at the top
 * Separate sections for relationships, comparisons and pattern analysis
 
-## About the Team
-
-![About Us](images/about_us.png)
-
-This project was completed collaboratively by a team of seven students. Team members contributed to data preparation, analysis, dashboard development, user-interface design, documentation and presentation.
-
 ## My Contributions
 
 My primary contributions to the project included:
